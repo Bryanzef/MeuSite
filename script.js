@@ -54,7 +54,7 @@ ScrollReveal().reveal(
   });
 //---------- TYPED JS --------------------
 const typed = new Typed(".multiple-text", {
-  strings: ["Front end Developer,", "Futuro Full stack"],
+  strings: ["Front-End,", "Back-End"],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
